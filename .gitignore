@@ -1,0 +1,7 @@
+
+# Private / local files
+.env
+.env*.local
+CLAUDE.md
+AGENTS.md
+.claude/
